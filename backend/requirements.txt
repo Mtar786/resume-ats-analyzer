@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-docx
+pdfminer.six
+pydantic
+typing-extensions

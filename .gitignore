@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environment
+venv/
+env/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Node dependencies and build outputs
+node_modules/
+*.log
+*.tmp
+*.cache
+frontend/build/
+
+# macOS metadata files
+.DS_Store
+
+# Editor settings
+.vscode/
+*.swp
