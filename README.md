@@ -1,5 +1,6 @@
 # Smart Resume Analyzer
 
+
 Smart Resume Analyzer is a simple web application that helps job‑seekers analyze their résumés (PDF or DOCX) against a job description.  It extracts relevant keywords, computes a rough Applicant Tracking System (ATS) match score and proposes suggestions to improve phrasing and quantify accomplishments.
 
 ## Features
@@ -94,6 +95,7 @@ The React app runs on `http://localhost:3000` and expects the backend to be avai
 4. **Suggestions**:  The analysis looks at bullet points (lines starting with `-`, `*` or `•`) and recommends adding quantification when numbers are missing.  General advice is provided when no specific suggestions are found.
 
 ## Improving This Project
+
 
 This starter project is intentionally simple and is intended as a baseline for more advanced résumé analysis tools.  You can improve it by:
 
