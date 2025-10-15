@@ -104,6 +104,7 @@ This starter project is intentionally simple and is intended as a baseline for m
 - Implementing more sophisticated ATS scoring metrics that consider keyword weighting, phrase matching and context.
 - Expanding the React interface with charts (e.g. pie chart of skill categories) and additional fields such as cover letter analysis.
 
+
 ## License
 
 This project is provided for educational purposes and comes with no warranty.  Feel free to use and modify it under the terms of the MIT License.
