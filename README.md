@@ -79,6 +79,8 @@ The frontend is a minimal React application that lets you upload a résumé and 
    npm install
    ```
 
+   
+
 3. Launch the development server:
 
    ```bash
