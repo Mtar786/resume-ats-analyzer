@@ -99,6 +99,7 @@ The React app runs on `http://localhost:3000` and expects the backend to be avai
 ## Improving This Project
 
 
+
 This starter project is intentionally simple and is intended as a baseline for more advanced résumé analysis tools.  You can improve it by:
 
 - Integrating a proper NLP library such as [spaCy](https://spacy.io/) for part‑of‑speech tagging and named entity recognition.
