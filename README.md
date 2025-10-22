@@ -1,6 +1,5 @@
 # Smart Resume Analyzer
 
-
 Smart Resume Analyzer is a simple web application that helps job‑seekers analyze their résumés (PDF or DOCX) against a job description.  It extracts relevant keywords, computes a rough Applicant Tracking System (ATS) match score and proposes suggestions to improve phrasing and quantify accomplishments.
 
 ## Features
